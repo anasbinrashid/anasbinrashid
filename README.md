@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anas</h1>
+<h1 align="center">Hi, I'm Anas Bin Rashid</h1>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif" alt="anasbinrashid" /> </p>
 <br>
 <p align="center">📫 Reach me at anasbinrashid5@gmail.com</p>
@@ -6,7 +6,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/anasbinrashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasbinrashid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anasbinrashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anasbinrashid" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anasbinrashid5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anasbinrashid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anasbinrashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anasbinrashid" height="30" width="40" /></a>
 </p>
 
