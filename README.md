@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anas Bin Rashid</h1>
 <p align="center"> <img src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif" alt="anasbinrashid" /> </p>
 <br>
-<p align="center">📫 Reach me at anasbinrashid5@gmail.com</p>
+<p align="center">🎯 Reach me at anasbinrashid5@gmail.com</p>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
