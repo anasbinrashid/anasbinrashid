@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Anas Bin Rashid</h1>
+<br>
 
 <img align="right" alt="Codinggg" height="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 <br>
+
 <p align="center">🎯 Reach me at <strong>anasbinrashid5@gmail.com</strong></p>
 
 <h3 align="center">Connect With Me</h3>
