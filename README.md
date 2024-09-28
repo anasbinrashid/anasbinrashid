@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anas Bin Rashid</h1>
+<h1 align="center">Hey! I'm Anas Bin Rashid</h1>
 <br>
 
 <img align="right" alt="Codinggg" height="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
@@ -9,7 +9,6 @@
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/anasbinrashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anasbinrashid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anasbinrashid5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anasbinrashid" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anasbinrashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anasbinrashid" height="30" width="40" /></a>
 </p>
 
