@@ -1,6 +1,8 @@
-<h1 align="center">Hey! I'm Anas Bin Rashid</h1>
-<br>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&color=70A5FD&center=true&vCenter=true&width=600&height=27&lines=+Hey!+I+am+Anas%2C++a+Computer+Science+Student;" alt="Typing SVG" />
+</div>
+<hr>
 <img align="right" alt="Codinggg" height="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 <br>
 
