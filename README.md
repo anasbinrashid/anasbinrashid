@@ -53,12 +53,8 @@
   <img src="https://skillicons.dev/icons?i=sqlite" height="35" alt="sqlite logo"  />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" alt="trello logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="visualstudio logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=eclipse" height="35" alt="eclipseide logo"  />
 </div>
-
-###
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
