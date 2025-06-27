@@ -72,7 +72,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasbinrashid&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=true" alt="anasbinrashid" height="185" width="400"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasbinrashid&bg_color=0D1117&color=5BCDEC&line=6E93B5&point=FFFFFF&area=true&hide_border=true&theme=radical" alt="GitHub Activity Graph" height="500" width="800"/>
 </p>
