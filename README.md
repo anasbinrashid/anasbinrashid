@@ -6,7 +6,7 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" alt="Codinggg" height="300" width="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
+<img align="right" alt="Codinggg" height="500" width="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 <br>
 <p align="center">🎯 Reach me at <strong>anasbinrashid5@gmail.com</strong></p>
 
@@ -39,7 +39,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="45" alt="androidstudio logo"  />
   <img src="https://skillicons.dev/icons?i=kotlin" height="35" width="45" alt="kotlin logo"  />
   <img src="https://skillicons.dev/icons?i=firebase" height="35" width="45" alt="firebase logo"  />
-  <img src="https://skillicons.dev/icons?i=gradle" height="35" width="45" alt="gradle logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="35" width="45" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="35" width="45"alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="45" alt="canva logo"  />
@@ -56,6 +55,15 @@
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" width="45" alt="trello logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="45" alt="visualstudio logo"  />
   <img src="https://skillicons.dev/icons?i=eclipse" height="35" width="45" alt="eclipseide logo"  />
+  <img src="https://skillicons.dev/icons?i=atom" height="35" width="45" alt="atom logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" width="45" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=latex" height="35" width="45" alt="latex logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="35" width="45" alt="r logo"  />
+  <img src="https://skillicons.dev/icons?i=regex" height="35" width="45" alt="regex logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="35" width="45" alt="sklearn logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="35" width="45" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="35" width="45" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=selenium" height="35" width="45" alt="selenium logo"  />
 </div>
 <br>
 <br>
