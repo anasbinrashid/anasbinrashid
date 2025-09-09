@@ -28,42 +28,51 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="35" width="45" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="35" width="45" alt="cplusplus logo"  />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" width="45" alt="csharp logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="35" width="45" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="35" width="45" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=py" height="35" width="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="35" width="45" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" width="45" alt="jupyter logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="45" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="45" alt="pandas logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="35" width="45" alt="r logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="35" width="45" alt="sklearn logo"  />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="35" width="45" alt="tensorflow logo"  />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="35" width="45" alt="pytorch logo"  />
+
+  
   <img src="https://skillicons.dev/icons?i=html" height="35" width="45" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="35" width="45" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="35" width="45" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="35" width="45" alt="figma logo"  />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="45" alt="androidstudio logo"  />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="35" width="45" alt="kotlin logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="35" width="45" alt="firebase logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="35" width="45" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="35" width="45"alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="45" alt="canva logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" width="45" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=md" height="35" width="45" alt="markdown logo"  />
-  <img src="https://skillicons.dev/icons?i=matlab" height="35" width="45" alt="matlab logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="45" alt="canva logo"  />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" width="45" alt="microsoftsqlserver logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="35" width="45" alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" width="45" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="45" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="45" alt="pandas logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="35" width="45" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="35" width="45" alt="sqlite logo"  />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" width="45" alt="trello logo"  />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="45" alt="visualstudio logo"  />
   <img src="https://skillicons.dev/icons?i=eclipse" height="35" width="45" alt="eclipseide logo"  />
   <img src="https://skillicons.dev/icons?i=atom" height="35" width="45" alt="atom logo"  />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" width="45" alt="docker logo"  />
-  <img src="https://skillicons.dev/icons?i=latex" height="35" width="45" alt="latex logo"  />
-  <img src="https://skillicons.dev/icons?i=r" height="35" width="45" alt="r logo"  />
+
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="45" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="35" width="45" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="35" width="45" alt="firebase logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=git" height="35" width="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="35" width="45"alt="github logo"  />
+    <img src="https://skillicons.dev/icons?i=docker" height="35" width="45" alt="docker logo"  />
+
+  <img src="https://skillicons.dev/icons?i=php" height="35" width="45" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=matlab" height="35" width="45" alt="matlab logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="35" width="45" alt="linux logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=md" height="35" width="45" alt="markdown logo"  />
+    <img src="https://skillicons.dev/icons?i=latex" height="35" width="45" alt="latex logo"  />
   <img src="https://skillicons.dev/icons?i=regex" height="35" width="45" alt="regex logo"  />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="35" width="45" alt="sklearn logo"  />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="35" width="45" alt="tensorflow logo"  />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="35" width="45" alt="pytorch logo"  />
   <img src="https://skillicons.dev/icons?i=selenium" height="35" width="45" alt="selenium logo"  />
+
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" width="45" alt="trello logo"  />
 </div>
 <br>
 <br>
