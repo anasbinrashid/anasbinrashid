@@ -35,10 +35,10 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="45" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="45" alt="pandas logo"  />
-  <img src="https://skillicons.dev/icons?i=r" height="35" width="45" alt="r logo"  />
   <img src="https://skillicons.dev/icons?i=sklearn" height="35" width="45" alt="sklearn logo"  />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="35" width="45" alt="tensorflow logo"  />
   <img src="https://skillicons.dev/icons?i=pytorch" height="35" width="45" alt="pytorch logo"  />
+  <img src="https://skillicons.dev/icons?i=r" height="35" width="45" alt="r logo"  />
 
   
   <img src="https://skillicons.dev/icons?i=html" height="35" width="45" alt="html5 logo"  />
