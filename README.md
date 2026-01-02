@@ -31,13 +31,21 @@
     <img src="https://skillicons.dev/icons?i=py" height="35" width="45" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="35" width="45" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="35" width="45" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" width="45" alt="jupyter logo"  />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="45" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="45" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" width="45" alt="matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="35" width="45" alt="plotly" />
+
   <img src="https://skillicons.dev/icons?i=sklearn" height="35" width="45" alt="sklearn logo"  />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="35" width="45" alt="tensorflow logo"  />
   <img src="https://skillicons.dev/icons?i=pytorch" height="35" width="45" alt="pytorch logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"  height="27" width="40" alt="kaggle" />
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" width="32" alt="huggingface" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50" width="55" alt="colab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" width="45" alt="jupyter logo"  />
+
+
   <img src="https://skillicons.dev/icons?i=r" height="35" width="45" alt="r logo"  />
 
   
