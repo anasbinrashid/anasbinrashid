@@ -69,6 +69,7 @@
   
   <img src="https://skillicons.dev/icons?i=git" height="35" width="45" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="35" width="45"alt="github logo"  />
+    <img src="https://skillicons.dev/icons?i=githubactions" height="35" width="45" alt="githubactions logo"  />
     <img src="https://skillicons.dev/icons?i=docker" height="35" width="45" alt="docker logo"  />
 
   <img src="https://skillicons.dev/icons?i=php" height="35" width="45" alt="php logo"  />
