@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=300&color=70A5FD&center=true&vCenter=true&width=600&height=27&lines=+Hey+There!+I+am+Anas+Bin+Rashid!;Computer+Science+Student+and+Software+Developer!;" alt="Typing SVG" />
 </div>
@@ -6,7 +5,7 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" alt="Codinggg" height="500" width="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
+<!--<img align="right" alt="Codinggg" height="500" width="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">-->
 <br>
 <p align="center">🎯 Reach me at <strong>anasbinrashid5@gmail.com</strong></p>
 
@@ -22,67 +21,117 @@
 </h3>
 
 <h3 align="center">Languages & Tools</h3>
-<!-- <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="35"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="35"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="35"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="35"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="35"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="35"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="35"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/jupyter/F37626" width="30" height="35" alt="jupyter logo"  />
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="35"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="35"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="35"/> </a>  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" width="30" height="35" alt="eclipseide logo"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="25" height="35" alt="visualstudio logo"  />  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="35"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>  
-</p> -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="35" width="45" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" width="45" alt="cplusplus logo"  />
-    <img src="https://skillicons.dev/icons?i=py" height="35" width="45" alt="python logo"  />
-  <img src="https://skillicons.dev/icons?i=java" height="35" width="45" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" width="45" alt="csharp logo"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" width="45" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" width="45" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" width="45" alt="matplotlib" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="35" width="45" alt="plotly" />
+<h4 align="center">Programming Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,cs,r,php,matlab,ts" height="40"/>
+</p>
 
-  <img src="https://skillicons.dev/icons?i=sklearn" height="35" width="45" alt="sklearn logo"  />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="35" width="45" alt="tensorflow logo"  />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="35" width="45" alt="pytorch logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"  height="27" width="40" alt="kaggle" />
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" width="32" alt="huggingface" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50" width="55" alt="colab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" width="45" alt="jupyter logo"  />
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="40"/>
+</p>
 
+<h4 align="center">Backend & APIs</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman" height="40"/>
+  <!-- <img src="https://cdn.simpleicons.org/openapiinitiative" height="40"/> -->
+</p>
 
-  <img src="https://skillicons.dev/icons?i=r" height="35" width="45" alt="r logo"  />
+<h4 align="center">AI/ML & Data Science</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/opencv" height="40"/>
+  <img src="https://cdn.simpleicons.org/streamlit" height="40"/>
+  <img src="https://cdn.simpleicons.org/gradio" height="40"/>
+  <img src="https://cdn.simpleicons.org/langchain" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="35"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Seaborn-FFFFFF?style=flat-square&logo=seaborn&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" height="25"/>
+</p>
 
-  
-  <img src="https://skillicons.dev/icons?i=html" height="35" width="45" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="35" width="45" alt="css3 logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="35" width="45" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" width="45" alt="figma logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="45" alt="canva logo"  />
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" width="45" alt="microsoftsqlserver logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" width="45" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" width="45" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="35" width="45" alt="sqlite logo"  />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="35" width="45" alt="visualstudio logo"  />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="35" width="45" alt="eclipseide logo"  />
-  <img src="https://skillicons.dev/icons?i=atom" height="35" width="45" alt="atom logo"  />
+<h4 align="center">DevOps & Cloud</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,bash" height="40"/>
+  <img src="https://cdn.simpleicons.org/nginx" height="40"/>
+  <img src="https://cdn.simpleicons.org/dvc" height="40"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" height="25"/>
+</p>
 
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="35" width="45" alt="androidstudio logo"  />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="35" width="45" alt="kotlin logo"  />
-  <img src="https://skillicons.dev/icons?i=firebase" height="35" width="45" alt="firebase logo"  />
-  
-  <img src="https://skillicons.dev/icons?i=git" height="35" width="45" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="35" width="45"alt="github logo"  />
-    <img src="https://skillicons.dev/icons?i=githubactions" height="35" width="45" alt="githubactions logo"  />
-    <img src="https://skillicons.dev/icons?i=docker" height="35" width="45" alt="docker logo"  />
+<h4 align="center">Mobile Development</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" height="40"/>
+  <img src="https://cdn.simpleicons.org/jetpackcompose" height="40"/>
+  <!-- <img src="https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square&logo=onesignal&logoColor=white" height="25"/> -->
+</p>
 
-  <img src="https://skillicons.dev/icons?i=php" height="35" width="45" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=matlab" height="35" width="45" alt="matlab logo"  />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" width="45" alt="linux logo"  />
-  
-  <img src="https://skillicons.dev/icons?i=md" height="35" width="45" alt="markdown logo"  />
-    <img src="https://skillicons.dev/icons?i=latex" height="35" width="45" alt="latex logo"  />
-  <img src="https://skillicons.dev/icons?i=regex" height="35" width="45" alt="regex logo"  />
-  <img src="https://skillicons.dev/icons?i=selenium" height="35" width="45" alt="selenium logo"  />
+<h4 align="center">Parallel & High-Performance Computing</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=flat-square&logo=khronos&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/OpenMP-0071C5?style=flat-square&logo=openmp&logoColor=white" height="25"/>
+</p>
 
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" width="45" alt="trello logo"  />
-</div>
+<h4 align="center">Desktop & GUI</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaFX-F80000?style=flat-square&logo=java&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GLUT-5586A4?style=flat-square&logo=opengl&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white" height="25"/>
+</p>
+
+<h4 align="center">Compilers & Protocols</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flex-264653?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Yacc-2A9D8F?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/XML-F7DF1E?style=flat-square&logo=w3c&logoColor=black" height="25"/>
+</p>
+
+<h4 align="center">Hardware & Simulation</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Proteus-1A73E8?style=flat-square&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="25"/>
+</p>
+
+<h4 align="center">Tools, Collaboration & Productivity</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,npm" height="40"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40"/>
+  <img src="https://skillicons.dev/icons?i=atom" height="40"/>
+  <img src="https://cdn.simpleicons.org/jira" height="40"/>
+  <!-- <img src="https://cdn.simpleicons.org/slack" height="40"/> -->
+  <img src="https://skillicons.dev/icons?i=notion" height="40"/>
+  <img src="https://cdn.simpleicons.org/wireshark" height="40"/>
+</p>
+
+<h4 align="center">Design & Miscellaneous</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40"/>
+  <img src="https://skillicons.dev/icons?i=md,latex,regex,selenium" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40"/>
+</p>
+
 <br>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -98,4 +147,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasbinrashid&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=true" alt="anasbinrashid" height="185" width="400"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
