@@ -10,15 +10,9 @@
 <div align="center">
 <h3>Connect With Me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/anasbinrashid/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:anasbinrashid5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://anasbinrashid.github.io/anasbinrashid-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
-  </a>
+  <a href="https://www.linkedin.com/in/anasbinrashid/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
+  <a href="mailto:anasbinrashid5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+  <a href="https://anasbinrashid.github.io/anasbinrashid-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/></a>
 </p>
 </div>
 
