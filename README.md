@@ -71,6 +71,8 @@
 <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/OneSignal-FF6600?style=for-the-badge&logo=onesignal&logoColor=white">
+<img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </p>
 </div>
 
@@ -81,12 +83,15 @@
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white">
+<img src="https://img.shields.io/badge/CuPy-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white">
 </p>
 </div>
 
@@ -194,6 +199,10 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Tesseract-5E5E5E?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/EasyOCR-FF6B6B?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FLEX-5E5E5E?style=for-the-badge&logo=gnu&logoColor=white">
+<img src="https://img.shields.io/badge/YACC/BISON-4B8BBE?style=for-the-badge&logo=gnu&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 <img src="https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge&logo=auth0&logoColor=white">
 <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white">
@@ -203,6 +212,8 @@
 <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+<!--<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">-->
 <img src="https://img.shields.io/badge/Regex-5C2D91?style=for-the-badge&logo=regex&logoColor=white">
 <img src="https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge&logo=python&logoColor=white">
